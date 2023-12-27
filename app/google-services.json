@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542539974152",
+    "project_id": "sangeet-cloud",
+    "storage_bucket": "sangeet-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542539974152:android:95feb2695172d4fc5033bd",
+        "android_client_info": {
+          "package_name": "com.jatin.cloudsangeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXAcRbhAPofjtX7QFMr7BlMp5JQZlUhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
